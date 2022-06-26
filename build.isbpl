@@ -1,0 +1,8 @@
+"builder.isbpl" include
+
+"tudbut.typingtest.Main" =mainClass
+"typingtest" =name
+
+func dependencies {
+    "https://github.com/TudbuT/tuddylib/raw/master/TuddyLIB.jar" download 
+}
