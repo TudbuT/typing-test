@@ -6,7 +6,7 @@ This project is a few years old, don't pay too much attention. I just decided to
 
 You really want to compile this?
 
-Fine, but sadly, compilation only works on Linux:
+Fine, but sadly, compilation only works on Linux (to be specific, anything with bash installed (yes, gitbash probably works)):
 
 ```sh
 wget https://github.com/TudbuT/isbpl-random-stuff/raw/master/ISBPL.jar
