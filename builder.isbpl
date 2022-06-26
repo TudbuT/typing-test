@@ -186,7 +186,7 @@ func jar {
         "cp 'lib/" script stream.write
         dep script stream.write
         "' jar\n" script stream.write
-        "cd jar ; unzip '" script stream.write
+        "cd jar ; unzip -o '" script stream.write
         dep script stream.write
         "' ; rm '" script stream.write
         dep script stream.write
